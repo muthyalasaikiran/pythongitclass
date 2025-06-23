@@ -18,3 +18,4 @@ def view_tasks():
 
 saikirannnnnnn
 kirannnnnnnnnnn
+python3 todo_app.py
